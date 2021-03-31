@@ -38,7 +38,6 @@ import (
 	"k8s.io/apimachinery/pkg/types"
 
 	cronjobv1 "github.com/mchirico/CronJob/api/v1"
-
 )
 
 // +kubebuilder:docs-gen:collapse=Imports
